@@ -8,7 +8,7 @@ Creates an avenue for using ApiKey authentication for Symfony2. Requires FOSUser
 Requires composer, install as follows
 
 ```sh
-composer require uecode/api-key-bundle dev-master
+composer require tmsolution/api-key-bundle dev-master
 ```
 
 ## Enable Bundle
